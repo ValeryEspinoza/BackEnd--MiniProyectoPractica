@@ -1,0 +1,4 @@
+codigos o dependencia instaladas
+npm init -y 
+npm install cors
+npm install express fs dotenv
